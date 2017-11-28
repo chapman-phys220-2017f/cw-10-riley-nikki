@@ -1,8 +1,8 @@
 # PHYS220 CW 10 
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Riley and Nikki**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-10-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-10-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-10-riley-nikki.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-10-riley-nikki)
 
 ## Specification
 
@@ -16,7 +16,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+It is cool that I get to say that I know how to make gifs, now.  It was helpful for me to learn how I can use np.random to complete tasks, such as estimating very specific numerical values.
 
 ## Honor Pledge
 
@@ -27,4 +27,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Riley and Nikki**
