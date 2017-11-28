@@ -9,7 +9,7 @@ import numpy as np
 
 #estimating the value of e
 def estimate_e(N=100000):
-        '''estimate_e(N)
+    '''estimate_e(N)
     Estimating the value of 'e' using np.random
         N(int) : N amount of random x and y coordinents
     Returns:
