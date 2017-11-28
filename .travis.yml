@@ -4,7 +4,7 @@ python:
 # command to install dependencies
 install: 
   - pip install --upgrade pip setuptools wheel
-  - pip install --only-binary=numpy,scipy pylint sympy numpy pandas matplotlib
+  - pip install --only-binary=numpy,scipy pylint sympy numpy pandas matplotlib ipython
 # command to run tests
 script:
   - nosetests
